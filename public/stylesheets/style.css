@@ -1,0 +1,13 @@
+body {
+  padding: 30px;
+  font: 14px Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+code {
+    color: dodgerblue;
+    background: #eee;
+}
